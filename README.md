@@ -1,5 +1,5 @@
 # Fouille_de_Donnees
-Page d'acceuil du groupe 
+Page d'accueil du groupe 
 
 &nbsp;&nbsp;&nbsp; Meyssa BEDDAR &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tom BLACHON &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Matthieu SIMOES
 
