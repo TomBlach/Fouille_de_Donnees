@@ -1,7 +1,7 @@
 # Fouille_de_Donnees
 Page d'acceuil du groupe 
 
-Meyssa BEDDAR, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tom BLACHON,                                Matthieu SIMOES
+&nbsp;&nbsp;&nbsp;&nbsp; Meyssa BEDDAR, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tom BLACHON,                                Matthieu SIMOES
 
 <DIV class=toto>
   
