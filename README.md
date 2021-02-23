@@ -1,6 +1,6 @@
 # Fouille_de_Donnees
 Page d'acceuil du groupe Meyssa BEDDAR, Tom BLACHON, Matthieu SIMOES
 
-![Cat](https://raw.githubusercontent.com/{user}/{repo}/{sha}/cat.png)
+![Matthieu SIMOES](https://raw.githubusercontent.com/Peadz/Fouille_de_Donnees/Image/PP.jpg)
 
 
