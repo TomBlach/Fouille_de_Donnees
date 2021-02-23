@@ -3,7 +3,7 @@ Page d'accueil du groupe
 
 &nbsp;&nbsp;&nbsp; Meyssa BEDDAR &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tom BLACHON &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Matthieu SIMOES
 
-<DIV class=toto background="https://user-images.githubusercontent.com/72613969/108887341-69b2ad00-760a-11eb-86c3-5cb343192144.png">
+<DIV class=toto>
   
   <img src="https://user-images.githubusercontent.com/72613969/108885128-b47ef580-7607-11eb-9342-6c32a4a504f2.jpg" width="150" height="250">
   <img src="https://user-images.githubusercontent.com/72613969/108885222-d5474b00-7607-11eb-9b74-22c7e3ebdcef.jpg" width="200" height="250">
