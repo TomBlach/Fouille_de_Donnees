@@ -2,10 +2,10 @@
 Page d'acceuil du groupe Meyssa BEDDAR, Tom BLACHON, Matthieu SIMOES
 
 # Matthieu
-![PP](https://user-images.githubusercontent.com/72613969/108885171-c1034e00-7607-11eb-9a6b-004995e0a799.jpg)
+![PP](https://user-images.githubusercontent.com/72613969/108885171-c1034e00-7607-11eb-9a6b-004995e0a799.jpg =250x250)
 
 # Meyssa
-![meyssa](https://user-images.githubusercontent.com/72613969/108885128-b47ef580-7607-11eb-9342-6c32a4a504f2.jpg)
+![meyssa](https://user-images.githubusercontent.com/72613969/108885128-b47ef580-7607-11eb-9342-6c32a4a504f2.jpg =250x250)
 
 ## Tom
-![tom](https://user-images.githubusercontent.com/72613969/108885222-d5474b00-7607-11eb-9b74-22c7e3ebdcef.jpg)
+![tom](https://user-images.githubusercontent.com/72613969/108885222-d5474b00-7607-11eb-9b74-22c7e3ebdcef.jpg=250x250)
