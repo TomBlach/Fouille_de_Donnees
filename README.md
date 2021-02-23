@@ -1,6 +1,6 @@
 # Fouille_de_Donnees
 Page d'accueil du groupe 
-<body background="https://user-images.githubusercontent.com/72613969/108887341-69b2ad00-760a-11eb-86c3-5cb343192144.PNG">
+<body background="https://user-images.githubusercontent.com/72613969/108887341-69b2ad00-760a-11eb-86c3-5cb343192144.png">
 &nbsp;&nbsp;&nbsp; Meyssa BEDDAR &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tom BLACHON &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Matthieu SIMOES
 
 <DIV class=toto>
